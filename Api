@@ -1,0 +1,17 @@
+vixon api:
+
+vixonkeypress(LETTER FROM THE ALFABET) - will press the letter that u chose from the alfabet 
+
+vixonsleep(1) - Freezes the process for 1 second
+
+vixonclipboard: - copies the script that u executed
+
+mouse1vixonloopEnd() - will stop left click loop
+
+mouse1vixonloop() - will start left click loop
+
+mouse1vixon() - presses the left mouse once
+
+clearvixon() - clears the console
+
+printvixonscript: - will show the executed script on console.
